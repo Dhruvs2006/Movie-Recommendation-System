@@ -9,7 +9,6 @@ A **Movie Recommendation System** built with **Python** and **Streamlit** that r
 - 🎥 Content-based movie recommendations
 - 🔍 Easy movie selection using a dropdown menu
 - ⭐ Displays top similar movies
-- 🖼️ Movie poster support (using TMDb API)
 - ⚡ Fast recommendations with a precomputed similarity matrix
 - 🎨 User-friendly Streamlit interface
 
