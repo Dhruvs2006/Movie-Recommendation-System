@@ -229,11 +229,3 @@ This project is licensed under the **MIT License**.
 - NumPy
 
 ---
-
-## 👨‍💻 Author
-
-**Your Name**
-
-GitHub: https://github.com/yourusername
-
-If you found this project helpful, don't forget to ⭐ star the repository!
