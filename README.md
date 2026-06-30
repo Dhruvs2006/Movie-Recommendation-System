@@ -120,7 +120,7 @@ After running the above command, Streamlit will open the application in your def
 2. Select a movie from the dropdown menu.
 3. Click the **Recommend** button.
 4. View the list of recommended movies.
-5. If TMDb API integration is enabled, movie posters will also be displayed.
+5. If TMDb API integration is enabled, movie name will also be displayed.
 
 ---
 
